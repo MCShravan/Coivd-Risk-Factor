@@ -1,1 +1,1 @@
-# Coivd-Risk-Factor
+# covid-19-risk-factor
